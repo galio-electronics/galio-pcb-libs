@@ -1,0 +1,46 @@
+# =========================
+# Altium Designer
+# =========================
+
+# Local history / previews
+History/
+__Previews/
+
+# Generated project structure / previews
+*.PrjPcbStructure
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+
+# Lock / temp / backup
+*.bak
+*.dwl
+*.dwl2
+*.$$$
+*.log
+*.LOG
+
+# Common generated output folders
+Project Outputs/
+Project Outputs for*/
+Project Logs/
+Project Logs for*/
+Generated/
+Outputs/
+CAMOutputs/
+
+# Optional exports folders
+exports/auto/
+fabrication/output/
+assembly/output/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Python cache if you automate checks/scripts
+__pycache__/
+*.pyc
